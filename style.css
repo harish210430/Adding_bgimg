@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 1.5;
+}
+h1 {
+    text-align: center;
+    font-size: 28px;
+    color: crimson;
+}
+.bg_img {
+    border: 5px solid black;
+    height: 600px;
+    background: url("baby.jpg") 100px 200px no-repeat;
+    /* background-repeat: no-repeat; */
+    /* background-position: 50%; */
+}
